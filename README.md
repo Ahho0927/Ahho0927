@@ -1,10 +1,9 @@
-### Hi there 👋
+### 👋
 
-- 🌱 I’m currently learning C
-- 💬 Ask me about Minecraft commands or datapacks
-- 📫 How to reach me: poku0927@gmail.com
-- ⚡ Fun fact: I can speak Korean, English, and Japanese
-- 😄 Pronouns: he/him
+- Major Language: Python / Mcfunction
+- Language: Korean / English / Japanese
+- Ask me: Minecraft command / datapack
+- How to reach me: poku0927@gmail.com
 
 <!--
 - 🔭 I’m currently working on ...
