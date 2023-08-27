@@ -1,6 +1,7 @@
 ### 👋
 
 - Major Language: Python / Mcfunction
+- Learning..: AHK / C
 - Language: Korean / English / Japanese
 - Ask me: Minecraft command / datapack
 - How to reach me: poku0927@gmail.com
