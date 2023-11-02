@@ -1,9 +1,15 @@
 ### 👋
 
-- I can use.. : python / mcfunction
-- in Learning.. : C / JS
-- Capable Languages : Kr / En / Jp
+- I can use.. : python & mcfunction
+- I'm Learning.. : C / JS
+- Capable Languages : Korean🇰🇷 / English🇺🇸 / Japanese🇯🇵
 - How to reach me : poku0927@gmail.com
+
+- Bucket List :
+  - [ ] **Realistic** and Playable Instruments in Minecraft
+  - [ ] **Realistic** Elevator in Minecraft
+  - [ ] Stenograph Keyboard Software\
+        ...
 
 <!--
 - 🔭 I’m currently working on ...
