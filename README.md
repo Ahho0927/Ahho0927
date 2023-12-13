@@ -1,6 +1,6 @@
 ### 👋
 
-- I can use.. : python & mcfunction
+- I can use.. : python / mcfunction
 - I'm Learning.. : C / JS
 - Capable Languages : Korean🇰🇷 / English🇺🇸 / Japanese🇯🇵
 - How to reach me : poku0927@gmail.com
